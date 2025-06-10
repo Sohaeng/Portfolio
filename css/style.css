@@ -9,20 +9,22 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: indigo;
+    background-color: #06013D;
 }
 
 #container {
     margin: 0 auto;
     width: 98%;
     height: 100%;
-    background-color: black;
+    background-color: #06013D;
+    border: 5px solid rgb(113, 83, 213);
 }
 
 header {
     width: 100%;
     height: 10%;
-    background-color: blue;
+    background-color: #06013D;
+    border-bottom: 5px solid rgb(113, 83, 213);
 }
 
 #logo {
@@ -33,29 +35,33 @@ header {
     text-align: center;
     display: flex;
     align-items: center;
+    border-right: 5px solid rgb(113, 83, 213);
 }
 
 nav {
     float: right;
-    width: 83%;
-    height: 75%;
-    background-color: green;
+    width: 85%;
+    height: 100%;
+    background-color: #06013D;
+    display: flex;
+    align-items: center;
 }
 
 #contents {
     width: 100%;
     height: 80%;
+    border-bottom: 5px solid rgb(113, 83, 213);
 }
 
 #main {
     float: left;
     width: 100%;
     height: 100%;
-    background-color: violet;
+    background-color: #06013D;
 }
 
 footer {
     width: 100%;
     height: 10%;
-    background-color: gray;
+    background-color: #06013D;
 }
