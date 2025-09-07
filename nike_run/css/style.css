@@ -9,40 +9,40 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #06013D;
+    background-color: #d3d3d3;
 }
 
 #container {
     margin: 0 auto;
     width: 98%;
     height: 100%;
-    background-color: #06013D;
-    border: 5px solid rgb(113, 83, 213);
+    background-color: #d3d3d3;
+    border: 5px solid rgb(124, 223, 140);
 }
 
 header {
     width: 100%;
     height: 10%;
-    background-color: #06013D;
-    border-bottom: 5px solid rgb(113, 83, 213);
+    background-color: #d3d3d3;
+    border-bottom: 5px solid rgb(124, 223, 140);
 }
 
 #logo {
     float: left;
     width: 15%;
     height: 100%;
-    background-color: #06013D;
+    background-color: #d3d3d3;
     text-align: center;
     display: flex;
     align-items: center;
-    border-right: 5px solid rgb(113, 83, 213);
+    border-right: 5px solid rgb(124, 223, 140);
 }
 
 nav {
     float: right;
     width: 85%;
     height: 100%;
-    background-color: #06013D;
+    background-color: #d3d3d3;
     display: flex;
     align-items: center;
 }
@@ -50,18 +50,18 @@ nav {
 #contents {
     width: 100%;
     height: 80%;
-    border-bottom: 5px solid rgb(113, 83, 213);
+    border-bottom: 5px solid rgb(124, 223, 140);
 }
 
 #main {
     float: left;
     width: 100%;
     height: 100%;
-    background-color: #06013D;
+    background-color: #d3d3d3;
 }
 
 footer {
     width: 100%;
     height: 10%;
-    background-color: #06013D;
+    background-color: #d3d3d3;
 }
