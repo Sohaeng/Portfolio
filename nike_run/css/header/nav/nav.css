@@ -7,14 +7,9 @@
     object-fit: contain;
     margin: auto;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(57, 255, 20);
-    text-shadow:
-        0 0 7px rgb(57, 255, 20),
-        0 0 10px rgb(57, 255, 20),
-        0 0 21px rgb(57, 255, 20),
-        0 0 42px #0A7200,
-        0 0 82px #0A7200,
-        0 0 92px #0A7200,
-        0 0 102px #0A7200,
-        0 0 151px #0A7200;
+    color: rgb(57, 255, 20); /* 연두색 텍스트 */
+    text-shadow: 
+        0 0 5px rgb(57, 255, 20),
+        0 0 10px #0A7200,
+        0 0 15px #0A7200;
 }
