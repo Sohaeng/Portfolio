@@ -1,0 +1,9 @@
+#person{
+    width: 35%;
+    height: 30%;
+    margin-top: 2%;
+    margin-left: 2%;
+    border: solid 2px;
+    background-color: yellow;
+    float: left;
+}
